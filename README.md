@@ -87,7 +87,7 @@ A responsive web application designed for ticket searching, selection, and booki
 
 💻 GitHub: [Dev16rai](https://github.com/Dev16rai)
 
-🔗 LinkedIn: Add your LinkedIn URL here
+🔗 LinkedIn: https://www.linkedin.com/in/dev-rai-1069b4256/
 
 ---
 
